@@ -1,5 +1,6 @@
 # TesteBKPI-dart
 - Repositório para publicação de avaliação técnica da BKPI em dart
+- O teste consistia em criar uma função chamada unzip que receba um array de 2 dimensões de inteiros e retorne a versão "desempacotada" do array com todos os inteiros ordenados em ordem crescente.
 
 ## Stack usada
 <div>
